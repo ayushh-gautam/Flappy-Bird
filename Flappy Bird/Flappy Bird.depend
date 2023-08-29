@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1693293455 source:/home/ayush/Documents/DSA/projectt/Flappy Bird/main.cpp
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<vector>
+
